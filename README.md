@@ -13,7 +13,15 @@
 - 🐍 I am proficient in **Python** and currently deep-diving into **C**.
 - 🐧 I daily drive **Pop!_OS** (Linux) and enjoy **CTF challenges**.
 - 🌐 I have experience working with **JavaScript, HTML, & CSS**.
-- 🔭 Working on: **SecureLink (Crypto Wallet) & VeraSuni**.
+- 🔭 Working on: **CheeseKeeper** (A Secure Crypto Wallet).
+
+---
+
+### 🏆 Hackathons & Achievements
+
+- 🥈 **2nd Runner Up** in **ACM’s Flagship Cryptic Hunt**.
+- 🏅 **Top 36 Teams** in **DevJams** (by GDSC).
+- 💻 Participant in **Code2Create** (by ACM).
 
 ---
 
