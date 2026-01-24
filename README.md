@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- junior core at ACM-VIT
+- Junior core at ACM-VIT
 - I’m a **Cybersecurity student** at **VIT Vellore**.
 - I build mobile applications using **Flutter** and **Dart**.
 - I am proficient in **Python** and currently deep-diving into **C**.
