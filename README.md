@@ -7,13 +7,13 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🔐 I’m a **Cybersecurity student** at **VIT Vellore**.
-- 📱 I build mobile applications using **Flutter** and **Dart**.
-- 🐍 I am proficient in **Python** and currently deep-diving into **C**.
-- 🐧 I daily drive **Pop!_OS** (Linux) and enjoy **CTF challenges**.
-- 🌐 I have experience working with **JavaScript, HTML, & CSS**.
-- 🔭 Working on: **CheeseKeeper** (A Secure Crypto Wallet).
+- junior core at ACM-VIT
+- I’m a **Cybersecurity student** at **VIT Vellore**.
+- I build mobile applications using **Flutter** and **Dart**.
+- I am proficient in **Python** and currently deep-diving into **C**.
+- I daily drive **Pop!_OS** (Linux) and enjoy **CTF challenges**.
+- I have experience working with **JavaScript, HTML, & CSS**.
+- Working on: **CheeseKeeper** (A Secure Crypto Wallet).
 
 ---
 
